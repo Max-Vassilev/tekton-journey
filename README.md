@@ -15,7 +15,7 @@
 - **Kubernetes Native**: Seamless integration
 - **Customization**: More flexible than Jenkins and GitHub Actions
 - **Scalability**: Auto-scales with Kubernetes
-- **Reusable Components**: Save time
+- **Reusable Components**: Saves time
 - **Cloud-Native**: Ideal for cloud apps
 
 ## Components
